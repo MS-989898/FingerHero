@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738659267804",
+    "project_id": "finger-hero-3a821",
+    "storage_bucket": "finger-hero-3a821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738659267804:android:7bc47ed6f559d3aa0fb019",
+        "android_client_info": {
+          "package_name": "com.example.fingerhero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738659267804-2qeobmu05vsl8uev31qsvmh02blmvj99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9tj4bs1B3bkP7szFvQ_CzySptnSFLTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738659267804-2qeobmu05vsl8uev31qsvmh02blmvj99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
