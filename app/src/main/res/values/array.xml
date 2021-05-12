@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="school_name">
+        <item>경북대학교(대구)</item>
+        <item>영남대학교</item>
+        <item>대구대학교</item>
+    </string-array>
+</resources>

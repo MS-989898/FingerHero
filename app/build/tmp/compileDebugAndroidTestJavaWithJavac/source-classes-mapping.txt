@@ -1,0 +1,4 @@
+com/example/pingerhero/ExampleInstrumentedTest.java
+ com.example.pingerhero.ExampleInstrumentedTest
+com/example/pingerhero/test/BuildConfig.java
+ com.example.pingerhero.test.BuildConfig
