@@ -24,8 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e55ed670-2c73-4717-93a1-fb99c871a7ec" name="Default Changelist" comment="gogo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e55ed670-2c73-4717-93a1-fb99c871a7ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/FingerHero/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/FingerHero/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +57,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -200,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620801095320</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="gogo">
+      <created>1620801690254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620801690254</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,14 +249,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620121159693" />
-    <state x="539" y="87" key="CommitChangelistDialog2" timestamp="1620801612395">
+    <state x="539" y="87" key="CommitChangelistDialog2" timestamp="1620801687352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1620801612395" />
-    <state x="284" y="178" key="FileChooserDialogImpl" timestamp="1620801542847">
+    <state x="539" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1620801687352" />
+    <state x="284" y="178" key="FileChooserDialogImpl" timestamp="1620801647173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="284" y="178" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620801542847" />
+    <state x="284" y="178" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620801647173" />
     <state x="833" y="417" key="Github.ShareDialog" timestamp="1620742257013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -277,10 +285,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1620801641724" />
-    <state x="357" y="221" key="Vcs.Push.Dialog.v2" timestamp="1620800697821">
+    <state x="357" y="221" key="Vcs.Push.Dialog.v2" timestamp="1620801844472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="357" y="221" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620800697821" />
+    <state x="357" y="221" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620801844472" />
     <state x="754" y="297" key="chooseDestDirectoryDialog" timestamp="1620744867293">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -289,10 +297,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620757876126" />
-    <state x="757" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620801088978">
+    <state x="757" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620801664624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="757" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620801088978" />
+    <state x="757" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620801664624" />
     <state x="710" y="414" key="git4idea.ui.GitResetDialog" timestamp="1620758557431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
